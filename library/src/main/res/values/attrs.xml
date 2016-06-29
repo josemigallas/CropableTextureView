@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="CropableTextureView">
+        <attr name="src" format="integer" />
+    </declare-styleable>
+</resources>
